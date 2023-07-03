@@ -15,4 +15,5 @@ Recommended version:
 
 In order to facilitate the reader's comprehension of the article, we have organized the key charts and placed them below for your convenience：
 ### Figure 1: The overall framework of the proposed model. It consists of three modules.
+![image](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/3e9afe63-5599-438e-9237-f75ad39e1e65)
 
