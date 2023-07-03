@@ -18,10 +18,10 @@ In order to facilitate the reader's comprehension of the article, we have organi
 ![model-框架](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/d5a4ab48-09cd-4853-86af-54d3f914b32b)
 
 ### Figure 2: ROC curve for GCN, GAT, ChebyNet and graphSAGE (from top to bottom).
-![GCN_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/8d62223a-d812-4beb-a7a5-bf1f04116f11)
-![image](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/39aa4e2a-e454-4e95-a0a3-07470f6ba030)
-![ChebNet_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/85e2373c-0787-458f-9e16-17f30858702e)
-![GraphSAGE_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/23f3925b-0bcf-48e9-8e96-edfab7bcb72f)
+![image](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/f9524a9f-5cdb-4e9e-b778-8d6ca60db988)
+![image](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/7dc66f40-0d22-4d8c-b7ec-2c5bfd6392ad)
+![image](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/708b1a43-f03d-4a0c-a482-89e99f334395)
+![image](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/ce6ab4b6-59a6-4976-8a43-1ba552138a23)
 
 ### Figure 3: Hyper-parameter 𝑎 search.
 ![parameter](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/51dae7a5-46f8-466d-b171-d2002ebe3d22)
