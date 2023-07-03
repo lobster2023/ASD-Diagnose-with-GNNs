@@ -19,7 +19,7 @@ In order to facilitate the reader's comprehension of the article, we have organi
 
 ### Figure 2: ROC curve for GCN, GAT, ChebyNet and graphSAGE (from top to bottom).
 ![GCN_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/8d62223a-d812-4beb-a7a5-bf1f04116f11)
-![GAT_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/76f7fa68-8160-4386-acda-7e7dd6153d0b)
+![GAT_roc (1)](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/41d1d583-7c28-40b4-a16d-0f9f55fc8d4c)
 ![ChebNet_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/85e2373c-0787-458f-9e16-17f30858702e)
 ![GraphSAGE_roc](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/23f3925b-0bcf-48e9-8e96-edfab7bcb72f)
 
