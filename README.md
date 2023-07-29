@@ -23,7 +23,7 @@ In order to facilitate the reader's comprehension of the article, we have organi
 ### Figure 3: Hyper-parameter 𝑎 search.
 ![para_new](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/1f77c961-7553-4d4d-a2fc-d6ddf27f6605)
 
-### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue). The second figure is for single functional area as an example. 
+### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
 ![t-test_vector_all_GAT_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/2e364177-6ef7-46d6-bfa3-5763cd02d7dd)
 ![t-test_vector_all_GAT_2](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/d5b15c0b-3ef2-4c7f-8877-5ccb7181ae8d)
 ![t-test_vector_all_GAT_3](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/d1a3b711-c966-4d04-822a-934b0f8ccc57)
