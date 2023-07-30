@@ -1,4 +1,4 @@
-![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/f583da9d-31d0-40a7-97db-bd589f9d3eb6)# ASD-Diagnose-with-GNNs
+# ASD-Diagnose-with-GNNs
 
 This repository includes four GNN models of ASD Diagnose: GCN, GAT, ChebyNet and graphSAGE, two plotting codes and the MWU test code. The Python file ending with loss is the model that introduces the Wasserstein Graph Distance.
 
@@ -24,8 +24,6 @@ In order to facilitate the reader's comprehension of the article, we have organi
 ![para_new](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/1f77c961-7553-4d4d-a2fc-d6ddf27f6605)
 
 ### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
-![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/881d8b02-3f52-4bd4-a6b1-361edd79f00b)
-![MWU-test-GCN_2](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/60d6c74d-6b13-4ee6-a04b-a2763d959c25)
 
 
 ### Figure 5: ASD related brain regions visualization. The left (right) panel shows the significant regions of the left (right) half of the brain from the lateral and dorsal views. And the middle panel displays the top 15 regions from the medial view.
