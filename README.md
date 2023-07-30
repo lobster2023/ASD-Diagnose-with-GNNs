@@ -25,10 +25,10 @@ Our key charts are placed below：
 
 ### Figure 4: Mann-Whitney U test of 90 functional areas from the ASD group (orange) and the control group (blue).
 ![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/a822caee-c8a3-47b3-a54f-05bcbde9f019)
-![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/28f5e1e4-0bf9-444a-b66c-427bb25aa4fc)
-![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/d907c5c2-96fd-47e6-a523-2b9a25a0fb31)
-![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/e924ed2c-269d-46b3-8fc9-569ba3f38e1e)
-![MWU-test-GCN_1](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/20319345-fd43-4944-a824-3159d12b24be)
+![MWU-test-GCN_2](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/09b92ee6-7a25-4e3b-bfb3-fdf0dfd1a925)
+![MWU-test-GCN_3](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/91cf3b18-3b81-4af8-ad2b-2ce7d51fae5c)
+![MWU-test-GCN_4](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/bf47b5a9-78c6-4bd2-8964-5c213df546a9)
+![MWU-test-GCN_5](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/aada798a-7461-4301-adb6-f5abfa523d6e)
 
 ### Figure 5: ASD related brain regions visualization. The left (right) panel shows the significant regions of the left (right) half of the brain from the lateral and dorsal views. And the middle panel displays the top 15 regions from the medial view.
 ![brainRegions](https://github.com/lobster2023/ASD-Diagnose-with-GNNs/assets/133120607/a767db45-88b7-40c0-bc43-e683d09293a9)
